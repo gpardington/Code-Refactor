@@ -104,11 +104,11 @@ h3 {
     color: #ffffff;
 }
 
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
+.img-style {
     max-height: 200px;
 }
 
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
+.h2-style {
     margin-bottom: 20px;
     font-size: 36px;
 }
