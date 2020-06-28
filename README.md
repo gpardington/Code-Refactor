@@ -1,2 +1,2 @@
 # Code-Refactor
-First homework assignment.
+This assignment was an introduction to refactoring. In order to enhance the web accessibility, improve the codebase for long term sustainability, and improve search engine optimization I made sure to consolidate the CSS, reorganized everything to follow a more semantic structure, and added clarifying comments to each section of the webpage within the code.
